@@ -1,0 +1,11 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "gainMeters": 70,
+    "lossMeters": 20,
+    "maxUphillPercent": 20
+  }
+}
